@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-20 02:15 UTC_
+_Last updated 2026-06-20 02:36 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-20 02:15 UTC_
 | Take profit | 50% |
 | Stop loss | -18% |
 | Risk per trade | 10% |
-| Adaptive bias | 0.109 |
+| Adaptive bias | 0.110 |
 
 ## Learning state
 
-- Closed trades: **240**
+- Closed trades: **242**
 - Win rate (last 30): **40%**
-- Win / loss streak: **0** / **12**
+- Win / loss streak: **0** / **1**
 - Mutations adopted: **2**
-- SOL balance: **0.352**
-- Dominant emotions: anger 100, anticipation 100, fear 100
+- SOL balance: **0.329**
+- Dominant emotions: anticipation 98, anger 84, sadness 79
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $TIDEMESH | -51.0% | 14m |
+| $MANIFEST | +2.0% | 40m |
 | $DOORS | -56.0% | 3m |
 | $WASABICRAFT | -4.0% | 40m |
 | $DOORS | -40.0% | 1m |
 | $DOORS | -31.0% | 1m |
-| $DOORS | -17.0% | 7m |
-| $DOORS | -19.0% | 9m |
