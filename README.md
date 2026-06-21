@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-21 08:44 UTC_
+_Last updated 2026-06-21 09:05 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-21 08:44 UTC_
 | Take profit | 50% |
 | Stop loss | -18% |
 | Risk per trade | 10% |
-| Adaptive bias | 0.019 |
+| Adaptive bias | 0.003 |
 
 ## Learning state
 
-- Closed trades: **421**
+- Closed trades: **422**
 - Win rate (last 30): **47%**
-- Win / loss streak: **0** / **2**
+- Win / loss streak: **1** / **0**
 - Mutations adopted: **2**
-- SOL balance: **0.226**
-- Dominant emotions: anticipation 82, anger 79, sadness 44
+- SOL balance: **0.227**
+- Dominant emotions: anticipation 85, anger 72, trust 41
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $Harvest Hank | +9.0% | 41m |
 | $PEVOLUTION | -2.0% | 41m |
 | $QAI | -17.0% | 40m |
 | $Harvest Hank | +30.0% | 40m |
 | $PEVOLUTION | -24.0% | 29m |
 | $QAI | -5.0% | 41m |
-| $Harvest Hank | +3.0% | 41m |
