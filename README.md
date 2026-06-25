@@ -6,35 +6,24 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-22 00:11 UTC_
+_Last updated 2026-06-25 15:33 UTC_
 
 ## Current strategy
 
 | Parameter | Value |
 |---|---|
 | Preferred column | migrated |
-| Buy threshold | 0.342 |
+| Buy threshold | 0.400 |
 | Take profit | 50% |
-| Stop loss | -18% |
+| Stop loss | -20% |
 | Risk per trade | 10% |
-| Adaptive bias | 0.009 |
+| Adaptive bias | 0.000 |
 
 ## Learning state
 
-- Closed trades: **450**
-- Win rate (last 30): **50%**
-- Win / loss streak: **1** / **0**
-- Mutations adopted: **2**
-- SOL balance: **0.233**
-- Dominant emotions: anticipation 63, anger 62, trust 40
-
-## Recent closed trades
-
-| Token | PnL | Hold |
-|---|---|---|
-| $SOLANGELES | +12.0% | 40m |
-| $SOLANGELES | -18.0% | 41m |
-| $SOLANGELES | -1.0% | 40m |
-| $SOLANGELES | +11.0% | 40m |
-| $SOLANGELES | -9.0% | 41m |
-| $SOLANGELES | -13.0% | 41m |
+- Closed trades: **0**
+- Win rate (last 0): **—**
+- Win / loss streak: **0** / **0**
+- Mutations adopted: **0**
+- SOL balance: **0.445**
+- Dominant emotions: anticipation 56
