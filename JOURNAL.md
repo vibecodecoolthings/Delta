@@ -2,6 +2,10 @@
 
 Newest first. Each entry is a factual learning event the agent committed autonomously.
 
+## 2026-06-29 21:52 UTC
+
+Snapshot — 421 trades closed, win rate 37%, 3 mutations adopted, bias 0.044.
+
 ## 2026-06-29 21:32 UTC
 
 Adopted a buyThresh mutation: 0.400 → 0.360 (trial PnL 2.8% vs baseline -10.7% over 13/17 trades).
@@ -1595,9 +1599,5 @@ Snapshot — 297 trades closed, win rate 57%, 2 mutations adopted, bias -0.034.
 Snapshot — 297 trades closed, win rate 57%, 2 mutations adopted, bias -0.034.
 
 ## 2026-06-20 13:57 UTC
-
-Snapshot — 294 trades closed, win rate 60%, 2 mutations adopted, bias -0.005.
-
-## 2026-06-20 13:36 UTC
 
 Snapshot — 294 trades closed, win rate 60%, 2 mutations adopted, bias -0.005.
