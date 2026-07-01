@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-01 04:06 UTC_
+_Last updated 2026-07-01 04:26 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-01 04:06 UTC_
 | Take profit | 51% |
 | Stop loss | -20% |
 | Risk per trade | 8% |
-| Adaptive bias | 0.024 |
+| Adaptive bias | 0.016 |
 
 ## Learning state
 
-- Closed trades: **598**
-- Win rate (last 30): **37%**
-- Win / loss streak: **0** / **3**
+- Closed trades: **600**
+- Win rate (last 30): **30%**
+- Win / loss streak: **0** / **5**
 - Mutations adopted: **4**
-- SOL balance: **0.235**
-- Dominant emotions: anticipation 79, anger 77, fear 46
+- SOL balance: **0.232**
+- Dominant emotions: anticipation 81, anger 76, fear 64
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $ZAYED | -20.0% | 34m |
+| $CATWIF | -3.0% | 40m |
 | $BitBoy | -14.0% | 40m |
 | $dog | -1.0% | 41m |
 | $MeiMei | -4.0% | 41m |
 | $Vulland | +29.0% | 40m |
-| $HIM | +10.0% | 40m |
-| $ZAYED | +18.0% | 41m |
