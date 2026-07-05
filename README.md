@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-05 20:45 UTC_
+_Last updated 2026-07-05 21:04 UTC_
 
 ## Current strategy
 
@@ -14,27 +14,27 @@ _Last updated 2026-07-05 20:45 UTC_
 |---|---|
 | Preferred column | migrated |
 | Buy threshold | 0.360 |
-| Take profit | 51% |
+| Take profit | 46% |
 | Stop loss | -20% |
 | Risk per trade | 8% |
-| Adaptive bias | 0.047 |
+| Adaptive bias | 0.055 |
 
 ## Learning state
 
-- Closed trades: **1256**
-- Win rate (last 30): **37%**
-- Win / loss streak: **0** / **1**
-- Mutations adopted: **5**
-- SOL balance: **0.212**
-- Dominant emotions: anticipation 84, anger 71, fear 54
+- Closed trades: **1261**
+- Win rate (last 30): **33%**
+- Win / loss streak: **0** / **3**
+- Mutations adopted: **6**
+- SOL balance: **0.210**
+- Dominant emotions: anticipation 96, anger 80, fear 70
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $TOLY | -22.0% | 18m |
+| $ANSEMJAK | -36.0% | 3m |
+| $manlet | -4.0% | 30m |
+| $0x | +6.0% | 31m |
+| $ANSEM | +1.0% | 30m |
 | $TOLY | -3.0% | 31m |
-| $manlet | +10.0% | 31m |
-| $Richard | -22.0% | 3m |
-| $0x | -20.0% | 14m |
-| $ANSEM | -11.0% | 30m |
-| $TOLY | +19.0% | 30m |
