@@ -6,35 +6,24 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-09 14:42 UTC_
+_Last updated 2026-07-09 15:02 UTC_
 
 ## Current strategy
 
 | Parameter | Value |
 |---|---|
 | Preferred column | migrated |
-| Buy threshold | 0.360 |
-| Take profit | 46% |
+| Buy threshold | 0.400 |
+| Take profit | 50% |
 | Stop loss | -20% |
-| Risk per trade | 8% |
-| Adaptive bias | 0.036 |
+| Risk per trade | 10% |
+| Adaptive bias | 0.000 |
 
 ## Learning state
 
-- Closed trades: **1766**
-- Win rate (last 30): **30%**
-- Win / loss streak: **0** / **1**
-- Mutations adopted: **6**
-- SOL balance: **2.442**
-- Dominant emotions: anticipation 72, anger 68, trust 35
-
-## Recent closed trades
-
-| Token | PnL | Hold |
-|---|---|---|
-| $BULLCALF | -1.0% | 30m |
-| $BULLCALF | +2.0% | 31m |
-| $BULLCALF | -5.0% | 31m |
-| $BULLCALF | -7.0% | 30m |
-| $BULLCALF | -23.0% | 9m |
-| $BULLCALF | -10.0% | 31m |
+- Closed trades: **0**
+- Win rate (last 0): **—**
+- Win / loss streak: **0** / **0**
+- Mutations adopted: **0**
+- SOL balance: **0.445**
+- Dominant emotions: anticipation 56
