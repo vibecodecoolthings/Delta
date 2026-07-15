@@ -6,35 +6,24 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-15 17:18 UTC_
+_Last updated 2026-07-15 17:39 UTC_
 
 ## Current strategy
 
 | Parameter | Value |
 |---|---|
 | Preferred column | migrated |
-| Buy threshold | 0.363 |
+| Buy threshold | 0.400 |
 | Take profit | 50% |
-| Stop loss | -21% |
+| Stop loss | -20% |
 | Risk per trade | 10% |
-| Adaptive bias | -0.099 |
+| Adaptive bias | 0.000 |
 
 ## Learning state
 
-- Closed trades: **441**
-- Win rate (last 30): **47%**
-- Win / loss streak: **9** / **0**
-- Mutations adopted: **2**
-- SOL balance: **0.273**
-- Dominant emotions: anger 58, anticipation 50, trust 38
-
-## Recent closed trades
-
-| Token | PnL | Hold |
-|---|---|---|
-| $gaycoin | +7.0% | 41m |
-| $ANSEM | +1.0% | 40m |
-| $febu | +12.0% | 41m |
-| $Bison | +58.0% | 18m |
-| $gaycoin | +71.0% | 25m |
-| $Girlcoin | +60.0% | 18m |
+- Closed trades: **0**
+- Win rate (last 0): **—**
+- Win / loss streak: **0** / **0**
+- Mutations adopted: **0**
+- SOL balance: **0.500**
+- Dominant emotions: 
